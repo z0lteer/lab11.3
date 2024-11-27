@@ -1,0 +1,3 @@
+Petrov Petr 555-0123 2 2 1991
+Ivanov Ivan 555-1234 1 1 1990
+Sidorov Sidr 555-5678 3 3 1992
